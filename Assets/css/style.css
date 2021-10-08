@@ -102,6 +102,8 @@ h3, h4, h6 {
     border-right: 2px solid var(--dark);
 }
 
+
+/* About Me Section */
 .about_me {
     display: flex;
     min-height: 220px;
@@ -127,11 +129,12 @@ h3, h4, h6 {
 
 .intro p {
     display: flex;
+    font-size: 18px;
     width: 70%;
     margin: auto;
 }
 
-    /* Work Section */
+/* Work Section */
 .portfolio {
     display: flex;
     min-height: 1000px;
@@ -188,15 +191,20 @@ label a {
     align-self: flex-end;
     flex-direction: column;
     min-height: 15%;
-    min-width: 15%;
+    min-width: 20%;
+    padding-right: 5px;
     margin-bottom: 10%;
     color: rgb(221, 210, 210);
     background-color: var(--dark);
 }
 
+.main-work label p {
+    padding-right: 15px;
+    width: auto
+}
 
 h5 {
-    margin: 5% 0 0% 10%;
+    margin: 5% 5% 0% 10%;
     font-size: 20px;
 }
 
