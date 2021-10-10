@@ -1,8 +1,22 @@
 # 08 Profile Update
 
 <pre>
-	For this project I updated the original profile I created a couple weeks ago along with updating my Github
-and LinkedIn profile along with my resume
+	For this project I updated the original profile I created a couple weeks ago along with updating my 
+Github and LinkedIn profiles and my resume.
+	Within the updates to my profile I switched my background photo and adjusted the work's sections to 
+feature project 1 in this course along with 3 other homework assignments. For the work features the photos 
+transform upon hover and when clicked they redirect the user to the github repositories. 
+	Within the github repositories any user can view a brief description of the project to the right of the
+page and a link to the deployed website below. If someone scrolls through the ReadMe's they will also see
+that I have updated the repos to include a 'Credits', 'License' and 'Creator' section at the bottom. 
+	If a user were to scroll to the bottom of the profile they can find a buttom called 'Resume' which will
+redirect the user to a downloaded pdf file of my resume. For the updates to my resume I added a technical 
+skills section which lists the certifications I've completed through Codecademy and below that there is a
+projects section. This section lists my first project in this program along with 2 homeworks. For each, 
+there is a brief description and a GitHub link below.
+	If someone were to utilize the other links to my GitHub profile they will see a brief personal 
+description along with the programming languages I have been learning and 6 pinned projects that each have descriptions to be viewed. In my LinkedIn profile there is a filled in 'About' section along with all of my
+work experience, education and coding certifications through CodeCademy. 
 
 </pre>
 
@@ -16,123 +30,27 @@ and LinkedIn profile along with my resume
 
 * Updated LinkedIn profile
 
-## Grading
+## ScreenShot of Profile
 
-| Requirement      | Weight |
-| ---------------- | ------ |
-| Portfolio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
+<img src='./Assets/images/profile_SS.png'>
 
-## Instructions
+## Credits
+Built with [HTML](https://html.spec.whatwg.org/) and CSS
 
-1. [Updated Portfolio](#updated-portfolio)
+Fonts from [Google Fonts](https://fonts.google.com/)
 
-2. [Updated GitHub Profile](#updated-github-profile)
+Deployed with GitHub
 
-3. [Updated Resume](#updated-resume)
+Link to the Deployed Site: [Personal Profile](polsen-92.github.io/portfolio_2/)
 
-4. [Updated LinkedIn](#updated-linkedin)
+## License
 
-## Updated Portfolio
+MIT license 
+Copyright © 2020
 
-💁 Need help updating your Portfolio? Check out the [career services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
+## Creator
 
-Your updated portfolio should:
-
-1. Display your contact information. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email, and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
-
-2. Have links to your GitHub profile and LinkedIn profile
-
-3. Have a link to a downloadable PDF of your resume
-
-4. Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
-
-	* Project title
-
-	* Link to the deployed version
-
-	* Link to the GitHub repository
-
-	* Screenshot of the deployed application
-
-5. Have a polished, mobile-responsive user interface.
-
-### Design
-
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-## Updated GitHub Profile 
-
-Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
-
-Your GitHub profile must contain at least the following items:
-
-1. Profile picture or avatar
-
-  * A photo or an avatar other than the default Github identicon. (a semi-professional to professional photo or an avatar photo are preferred)
-
-2. Biography
-
-3. Email address. If you don't want to share your personal email or phone number, use a developer email.
-
-4. Link to your deployed portfolio
-
-5. At least 2 pinned repositories:
-
-	* Navigate to [GitHub](https://github.com/) and go to your profile.
-
-	* Click "Customize your pins"
-
-	* Click the checkboxes for your project and 2-3 homework assignments that you would like to share
-
-6. Follow a few of your classmates and/or other developers. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
-
-7. README files. Every pinned project should contain a README file with:
-
-	* Title of app
-
-	* Live link to deployed app
-
-	* List of technologies used
-
-	* 1-2 sentences explaining what the app is
-
-	* 2-3 Screenshots / gifs of the app
-
-	* License (usually MIT)
-	
-	* Contact information for you and any collaborators
-
-8. Commit history. Every pinned repository should have at least 20 commits.
-
-## Updated Resume 
-
-💁 Need help building a resume? Check out the [career services milestone resources](https://mycareerspot.org/resume).
-
-Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
-
-Your resume should include:
-
-* a heading with your name, phone number, professional email address, links to LinkedIn, portfolio and GitHub. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email, and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
-
-* a technical skills section, with all programming languages and technologies listed
-
-* 3 of your strongest projects/homework assignments with brief description, languages used, and URL
-
-## Updated LinkedIn
-
-💁 Need help updating your LinkedIn? Check out the [career services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
-
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+<img src="./Assets/images/cover_photo.jpg" width="100px"> <br>
+Paige Olsen
+[Github](https://github.com/POlsen-92) ,
+[LinkedIn](https://www.linkedin.com/in/paige-olsen-2aba9685/)
