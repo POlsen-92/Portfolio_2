@@ -15,7 +15,8 @@ skills section which lists the certifications I've completed through Codecademy 
 projects section. This section lists my first project in this program along with 2 homeworks. For each, 
 there is a brief description and a GitHub link below.
 	If someone were to utilize the other links to my GitHub profile they will see a brief personal 
-description along with the programming languages I have been learning and 6 pinned projects that each have descriptions to be viewed. In my LinkedIn profile there is a filled in 'About' section along with all of my
+description along with the programming languages I have been learning and 6 pinned projects that each have 
+descriptions to be viewed. In my LinkedIn profile there is a filled in 'About' section along with all of my
 work experience, education and coding certifications through CodeCademy. 
 
 </pre>
