@@ -235,7 +235,7 @@ figure p {
     align-self: flex-end;
     flex-direction: column;
     min-height: 20%;
-    min-width: 40%;
+    min-width: 50%;
     bottom: 10%;
     color: rgb(221, 210, 210);
     background-color: var(--dark);
