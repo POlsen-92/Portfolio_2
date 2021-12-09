@@ -20,7 +20,7 @@ have descriptions to be viewed. In my LinkedIn profile there is a filled in 'Abo
 all of my work experience, education and coding certifications through CodeCademy. 
 
 </pre>
-
+cd 
 ## Homework Requirements
 
 * Updated portfolio featuring Project 1 and two exemplary homework assignments.
@@ -32,6 +32,7 @@ all of my work experience, education and coding certifications through CodeCadem
 * Updated LinkedIn profile
 
 ## ScreenShot of Profile
+<img src='./Assets/images/WireFrame.png'>
 
 <img src='./Assets/images/profile_SS.png'>
 

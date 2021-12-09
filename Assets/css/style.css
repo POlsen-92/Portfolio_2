@@ -34,7 +34,6 @@ h1 {
     font-weight: 700;
     width: 30%;
     margin-left: 20px;
-
 }
 
 nav {
@@ -178,7 +177,7 @@ label a {
 }
 
 .main-work figure {
-    background-image: url(../images/manatee_ss.png);
+    background-image: url(../images/tabletop_ss.png);
     background-size: cover;
     background-position: top;
     min-width: 300px;
@@ -248,15 +247,15 @@ figure p {
 }
 
 .mw-1 {
-    background-image: url(../images/workout_SS.png);
+    background-image: url(../images/manatee_ss.png);
 }
 
 .mw-2 {
-    background-image: url(../images/ems_ss.png);
+    background-image: url(../images/workout_SS.png);
 }
 
 .mw-3 {
-    background-image: url(../images/codingquiz_SS.png);
+    background-image: url(../images/ems_ss.png);
 }
 
 nav li:hover {
