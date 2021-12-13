@@ -43,7 +43,7 @@ Fonts from [Google Fonts](https://fonts.google.com/)
 
 Deployed with GitHub
 
-Link to the Deployed Site: [Personal Profile](polsen-92.github.io/portfolio_2/)
+Link to the Deployed Site: [Personal Profile](https://polsen-92.github.io/Portfolio_2/)
 
 ## License
 
